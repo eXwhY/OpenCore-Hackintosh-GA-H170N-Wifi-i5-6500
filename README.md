@@ -25,3 +25,29 @@ iMessage
 FaceTime
 
 This repo is for personal use only. No support is given but welcome to contribute on the "what does not work"
+
+```
+		<dict>
+			<key>AdviseFeatures</key>
+			<false/>
+			<key>MLB</key>
+			<string>EDIT THIS</string>
+			<key>MaxBIOSVersion</key>
+			<false/>
+			<key>ProcessorType</key>
+			<integer>0</integer>
+			<key>ROM</key>
+			<data>
+			ESIzRFVm
+			</data>
+			<key>SpoofVendor</key>
+			<true/>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
+			<key>SystemProductName</key>
+			<string>iMac17,1</string>
+			<key>SystemSerialNumber</key>
+			<string>EDIT THIS</string>
+			<key>SystemUUID</key>
+			<string>EDIT THIS</string>
+		</dict>
